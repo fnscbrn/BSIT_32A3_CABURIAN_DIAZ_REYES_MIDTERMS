@@ -1,0 +1,58 @@
+C:\Users\Reuel D. Caburian\source\repos\Enrollment System\Enrollment System\obj\Debug\net8.0-windows\Enrollment_System.Form1.resources
+C:\Users\Reuel D. Caburian\source\repos\Enrollment System\Enrollment System\obj\Debug\net8.0-windows\Enrollment_System.Resources.resources
+C:\Users\Reuel D. Caburian\source\repos\Enrollment System\Enrollment System\obj\Debug\net8.0-windows\Enrollment System.vbproj.GenerateResource.cache
+C:\Users\Reuel D. Caburian\source\repos\Enrollment System\Enrollment System\obj\Debug\net8.0-windows\Enrollment System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reuel D. Caburian\source\repos\Enrollment System\Enrollment System\obj\Debug\net8.0-windows\Enrollment System.AssemblyInfoInputs.cache
+C:\Users\Reuel D. Caburian\source\repos\Enrollment System\Enrollment System\obj\Debug\net8.0-windows\Enrollment System.AssemblyInfo.vb
+C:\Users\Reuel D. Caburian\source\repos\Enrollment System\Enrollment System\obj\Debug\net8.0-windows\Enrollment System.vbproj.CoreCompileInputs.cache
+C:\Users\Reuel D. Caburian\source\repos\Enrollment System\Enrollment System\bin\Debug\net8.0-windows\Enrollment System.exe
+C:\Users\Reuel D. Caburian\source\repos\Enrollment System\Enrollment System\bin\Debug\net8.0-windows\Enrollment System.deps.json
+C:\Users\Reuel D. Caburian\source\repos\Enrollment System\Enrollment System\bin\Debug\net8.0-windows\Enrollment System.runtimeconfig.json
+C:\Users\Reuel D. Caburian\source\repos\Enrollment System\Enrollment System\bin\Debug\net8.0-windows\Enrollment System.dll
+C:\Users\Reuel D. Caburian\source\repos\Enrollment System\Enrollment System\bin\Debug\net8.0-windows\Enrollment System.pdb
+C:\Users\Reuel D. Caburian\source\repos\Enrollment System\Enrollment System\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Reuel D. Caburian\source\repos\Enrollment System\Enrollment System\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\Reuel D. Caburian\source\repos\Enrollment System\Enrollment System\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Reuel D. Caburian\source\repos\Enrollment System\Enrollment System\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Reuel D. Caburian\source\repos\Enrollment System\Enrollment System\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Reuel D. Caburian\source\repos\Enrollment System\Enrollment System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\Reuel D. Caburian\source\repos\Enrollment System\Enrollment System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Reuel D. Caburian\source\repos\Enrollment System\Enrollment System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Reuel D. Caburian\source\repos\Enrollment System\Enrollment System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Reuel D. Caburian\source\repos\Enrollment System\Enrollment System\obj\Debug\net8.0-windows\Enrollment System.vbproj.AssemblyReference.cache
+C:\Users\Reuel D. Caburian\source\repos\Enrollment System\Enrollment System\obj\Debug\net8.0-windows\Enrollme.36442893.Up2Date
+C:\Users\Reuel D. Caburian\source\repos\Enrollment System\Enrollment System\obj\Debug\net8.0-windows\Enrollment System.dll
+C:\Users\Reuel D. Caburian\source\repos\Enrollment System\Enrollment System\obj\Debug\net8.0-windows\refint\Enrollment System.dll
+C:\Users\Reuel D. Caburian\source\repos\Enrollment System\Enrollment System\obj\Debug\net8.0-windows\Enrollment System.pdb
+C:\Users\Reuel D. Caburian\source\repos\Enrollment System\Enrollment System\obj\Debug\net8.0-windows\Enrollment System.genruntimeconfig.cache
+C:\Users\Reuel D. Caburian\source\repos\Enrollment System\Enrollment System\obj\Debug\net8.0-windows\ref\Enrollment System.dll
+C:\Users\Reuel D. Caburian\source\repos\Enrollment System\Enrollment System\obj\Debug\net8.0-windows\Enrollment_System.Form2.resources
+D:\User\Documents\Enrollment System\Enrollment System\bin\Debug\net8.0-windows\Enrollment System.exe
+D:\User\Documents\Enrollment System\Enrollment System\bin\Debug\net8.0-windows\Enrollment System.deps.json
+D:\User\Documents\Enrollment System\Enrollment System\bin\Debug\net8.0-windows\Enrollment System.runtimeconfig.json
+D:\User\Documents\Enrollment System\Enrollment System\bin\Debug\net8.0-windows\Enrollment System.dll
+D:\User\Documents\Enrollment System\Enrollment System\bin\Debug\net8.0-windows\Enrollment System.pdb
+D:\User\Documents\Enrollment System\Enrollment System\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\User\Documents\Enrollment System\Enrollment System\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+D:\User\Documents\Enrollment System\Enrollment System\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\User\Documents\Enrollment System\Enrollment System\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+D:\User\Documents\Enrollment System\Enrollment System\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\User\Documents\Enrollment System\Enrollment System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+D:\User\Documents\Enrollment System\Enrollment System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+D:\User\Documents\Enrollment System\Enrollment System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\User\Documents\Enrollment System\Enrollment System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\User\Documents\Enrollment System\Enrollment System\obj\Debug\net8.0-windows\Enrollment System.vbproj.AssemblyReference.cache
+D:\User\Documents\Enrollment System\Enrollment System\obj\Debug\net8.0-windows\Enrollment_System.Form1.resources
+D:\User\Documents\Enrollment System\Enrollment System\obj\Debug\net8.0-windows\Enrollment_System.Form2.resources
+D:\User\Documents\Enrollment System\Enrollment System\obj\Debug\net8.0-windows\Enrollment_System.Resources.resources
+D:\User\Documents\Enrollment System\Enrollment System\obj\Debug\net8.0-windows\Enrollment System.vbproj.GenerateResource.cache
+D:\User\Documents\Enrollment System\Enrollment System\obj\Debug\net8.0-windows\Enrollment System.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Documents\Enrollment System\Enrollment System\obj\Debug\net8.0-windows\Enrollment System.AssemblyInfoInputs.cache
+D:\User\Documents\Enrollment System\Enrollment System\obj\Debug\net8.0-windows\Enrollment System.AssemblyInfo.vb
+D:\User\Documents\Enrollment System\Enrollment System\obj\Debug\net8.0-windows\Enrollment System.vbproj.CoreCompileInputs.cache
+D:\User\Documents\Enrollment System\Enrollment System\obj\Debug\net8.0-windows\Enrollme.36442893.Up2Date
+D:\User\Documents\Enrollment System\Enrollment System\obj\Debug\net8.0-windows\Enrollment System.dll
+D:\User\Documents\Enrollment System\Enrollment System\obj\Debug\net8.0-windows\refint\Enrollment System.dll
+D:\User\Documents\Enrollment System\Enrollment System\obj\Debug\net8.0-windows\Enrollment System.pdb
+D:\User\Documents\Enrollment System\Enrollment System\obj\Debug\net8.0-windows\Enrollment System.genruntimeconfig.cache
+D:\User\Documents\Enrollment System\Enrollment System\obj\Debug\net8.0-windows\ref\Enrollment System.dll
